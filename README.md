@@ -1,4 +1,2 @@
 # hello-world
-Test repo.
-
-Testercles.
+BRANCH2.
